@@ -12,6 +12,7 @@ A simple Space Invaders clone I made with Unity 2021 LTS in about a week. The pr
 - Unity UI
 - TextMeshPro
 - Test Framework
+- Esto es una prueba
 
 ### 3rd party plugins
 - Zenject / Extenject
@@ -19,3 +20,4 @@ A simple Space Invaders clone I made with Unity 2021 LTS in about a week. The pr
 - UniTask
 - DOTween
 - NSubstitute
+- Prueba
